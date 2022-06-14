@@ -1,0 +1,45 @@
+
+body, html {
+  height: 100%;
+  margin: 0;
+  padding:0;
+}
+html, body{
+  min-width: 400px;
+}
+
+body, input, button {
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    color: #202124;
+}
+body{
+  background: #fff;
+}
+body{
+  display: block;
+}
+/*center*/
+.center {
+  box-sizing: border-box;
+  width: 624;
+  top: 444;
+}
+
+
+
+/*footer*/
+/*country*/
+element.style {
+  display: none;
+}
+.country {
+  position: absolute;
+  text-align: left;
+  z-index: 3;
+  cursor: default;
+  -webkit-user-select: none;
+  width: 100%;
+  margin-top: -1px;
+
+}
